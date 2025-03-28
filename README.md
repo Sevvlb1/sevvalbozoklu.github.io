@@ -1,2 +1,2 @@
-# sevvalbozoklu.github.io
+# sevvlb1.github.io
 weather app
